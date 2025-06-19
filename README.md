@@ -3,6 +3,8 @@
 NAME: VINCENT JUNIOR KABO KOPELEDI
 STUDENT NUMBER: ST10495496
 
+Github Link: https://github.com/Vincent-UI146/Music-playlist.git
+
 Create an Android App using kotlin using Android Studio
 You have joined a team that is developing a music playlist manager app.The app stores song details and allow users to create and manage playlists. Users can rate songs, add comments, and input information about the artist.The app caters to 4 songs.
 
